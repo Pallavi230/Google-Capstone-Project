@@ -46,9 +46,9 @@ As data is collected in a survey, we are unable to ascertain its integrity or ac
 # 2.3 Is Data ROCCC?
 A good data source is ROCCC which stands for Reliable, Original, Comprehensive, Current, and Cited.
 
-Reliable — LOW — Not reliable as it only has 30 respondents
-Original — LOW — Third party provider (Amazon Mechanical Turk)
-Comprehensive — MED — Parameters match most of Bellabeat products’ parameters
-Current — LOW — Data is 5 years old and may not be relevant
-Cited — LOW — Data collected from third party, hence unknown
-Overall, the dataset is considered bad quality data and it is not recommended to produce business recommendations based on this data.
+>Reliable — LOW — Not reliable as it only has 30 respondents
+>Original — LOW — Third party provider (Amazon Mechanical Turk)
+>Comprehensive — MED — Parameters match most of Bellabeat products’ parameters
+>Current — LOW — Data is 5 years old and may not be relevant
+>Cited — LOW — Data collected from third party, hence unknown
+>Overall, the dataset is considered bad quality data and it is not recommended to produce business recommendations based on this data.
